@@ -1,0 +1,2 @@
+# Basics-of-shotgun-metagenomics-sequence-processing
+Rather than writing a guide here, I try to give direction for tools that can be used and general workflow parameters. I had many issues that I "solved", but were likely solved badly. I will talk about these when we get to them, just know that my solutions are probably naive and that there are almost certainly better ways to resolve these issues.
